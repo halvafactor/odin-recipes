@@ -5,3 +5,5 @@ This is my first project for The Odin Project. It should showcase my ability to 
 success.jpg is from pexels: https://www.pexels.com/photo/achievement-confident-free-freedom-6945/
 
 fail.jpg is from Flickr: https://www.flickr.com/photos/fireflythegreat/2845637227
+
+mediocrity.jpg is from Wikimedia: https://commons.wikimedia.org/wiki/File:Ouroboros_Protocol.jpg
